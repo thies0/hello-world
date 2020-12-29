@@ -9,4 +9,4 @@ I'm here to look what I can do and have to learn how.
 
 And I have to see which topic interests me and corresponds to my abilities.
 
-My experience is, to install and cofigure a system
+My experience is, to install and configure a system
